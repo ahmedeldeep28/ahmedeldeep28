@@ -59,22 +59,14 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ahmedeldeep28&theme=dark)](https://git.io/streak-stats)
 
-<div style="display:flex">
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmedeldeep28&theme=nord_dark)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahmedeldeep28&theme=nord_dark)
-
-</div>
-
-<div style="display:flex">
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmedeldeep28&theme=nord_dark)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmedeldeep28&theme=nord_dark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmedeldeep28&theme=nord_dark)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahmedeldeep28&theme=nord_dark)
 
 
-</div>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmedeldeep28&theme=nord_dark)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmedeldeep28&theme=nord_dark&utcOffset=8)
+
+
+
 
 
 
